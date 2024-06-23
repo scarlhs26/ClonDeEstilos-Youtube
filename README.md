@@ -7,7 +7,9 @@ No tiene ninguna funcionabilidad es solo elementos y estilos.
 ## 🖼 interfaz y Responsive:
 - **Pantallas grandes:**
 ![Feed del usuario](imagenes/yt.PNG)
+
 - **Pantallas convencional:**
 ![Feed del usuario](imagenes/yt2.PNG)
+
 - **Movil:**
 ![Feed del usuario](imagenes/yt3.PNG)
