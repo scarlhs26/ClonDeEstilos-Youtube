@@ -3,6 +3,8 @@ Este proyecto es una recreación del estilo frontend de la página principal de 
 ## 💻 Tecnologias:
 - Css
 - Html
+
+
 No tiene ninguna funcionabilidad es solo elementos y estilos.
 ## 🖼 interfaz y Responsive:
 - **Pantallas grandes:**
